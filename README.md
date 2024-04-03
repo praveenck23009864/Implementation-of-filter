@@ -30,8 +30,8 @@ End the program.
 
 
 ## Program:
-### Developed By   : Archana k
-### Register Number: 212222240011
+### Developed By   : praveen ck
+### Register Number: 212222243003
 
 
 ## 1. Smoothing Filters
